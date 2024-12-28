@@ -1,0 +1,34 @@
+[
+  {
+    "Nombre": "Matrix",
+    "FechaLanzamiento": 1993,
+    "DuracionMinutos": 60,
+    "IncluidoPlan": false,
+    "SumaEvaluaciones": 0.0,
+    "TotalEvaluaciones": 0
+  },
+  {
+    "Nombre": "Encantada",
+    "FechaLanzamiento": 2008,
+    "DuracionMinutos": 13,
+    "IncluidoPlan": false,
+    "SumaEvaluaciones": 0.0,
+    "TotalEvaluaciones": 0
+  },
+  {
+    "Nombre": "Top Gun",
+    "FechaLanzamiento": 1986,
+    "DuracionMinutos": 109,
+    "IncluidoPlan": false,
+    "SumaEvaluaciones": 0.0,
+    "TotalEvaluaciones": 0
+  },
+  {
+    "Nombre": "Camino",
+    "FechaLanzamiento": 2008,
+    "DuracionMinutos": 138,
+    "IncluidoPlan": false,
+    "SumaEvaluaciones": 0.0,
+    "TotalEvaluaciones": 0
+  }
+]
